@@ -1,5 +1,6 @@
 /*  your css code here. If applicable */
 .star{
+	color:yellow;
       --star-color:yellow;
       --sqrt-3:1.73205080757;
   margin: 0 auto;
